@@ -1,6 +1,6 @@
 <h1 align="center">🌍 BLUE PLANET PROJECT</h1>
 
-_<h5 align="center">"A label to make the difference"</h5>_
+_<h3 align="center">"A label to make the difference"</h3>_
 
 The Blue Planet Project is a set of labels and partners in order to assure a quality standard on the product that users purchase every day. For each label that the company owns, they went through a series of scientifical tests, and socio-economical evaluations, to make sure that their product matched the quality standard that Blue Planet wants to advocate.
 
