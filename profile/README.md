@@ -16,7 +16,7 @@ All the documentation about the Blue Planet Project, how our labels work, and ho
 
 The Blue Planet frontend repository.
 
-### API
+### [API](https://github.com/Blue-Planet-Project/API)
 
 The Blue Planet backend repository.
 
